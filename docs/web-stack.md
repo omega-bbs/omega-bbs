@@ -3,6 +3,8 @@
 - [React](https://facebook.github.io/react/)
 - [React Router](https://reacttraining.com/react-router/)
 - [styled-components](https://www.styled-components.com/)
+- [MobX](https://mobx.js.org/)
+- [axios](https://github.com/mzabriskie/axios)
 
 ## Under Consideration
 
