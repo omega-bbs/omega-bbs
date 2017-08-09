@@ -8,6 +8,7 @@
 
 ## Under Consideration
 
+- Internationalization ([react-i18next](https://www.npmjs.com/package/react-i18next))
 - Server-Side Rendering
 - Route-based Code Splitting
 - Service Worker
