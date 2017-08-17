@@ -1,5 +1,6 @@
 # docs
 
+- [Development](./docs/development.md)
 - [Code Style](./docs/code-style.md)
 - [Rich Editor](./docs/rich-editor.md)
 - Front-end
