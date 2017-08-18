@@ -2,6 +2,7 @@
 
 ## Prerequisites
 
+- [Caddy](https://caddyserver.com/)
 - [Node.js](https://nodejs.org/) (8.x is recommended)
 - [npm](https://www.npmjs.com/) 5 (for package-lock.json)
 
