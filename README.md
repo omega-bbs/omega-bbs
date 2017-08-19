@@ -2,19 +2,25 @@
 
 次世代富交互论坛系统。
 
-## Installation
+**警告：该项目正在初期开发中，甚至还未完成第一个版本！**
+
+**如果你只是普通用户，请点击右上角 Watch 来关注我们的开发进展。**
+
+**如果你是开发者，请参考本文底部的「如何贡献」小节。** 
+
+## 安装
 
 Use docker.
 
 WIP
 
-## Features (WIP)
+## 特性 (尚未完成)
 
 * 移动端友好
 * SEO 友好（完整的 SSR 支持）
 * 实时讨论、通知
 
-## Design Concept
+## 设计理念
 
 现在，并没有一款刚好“够用”的论坛系统。Discuz! 功能丰富但臃肿复杂，难以完成轻量级的交流，且架构老旧；Flarum 精致典雅但填坑无望，功能缺失严重而生态贫乏；Discourse 设计现代，但体量巨大且运行缓慢，不接地气。鉴于此，ω bbs 致力于构建一个适用于中文（甚至全球）社区的论坛社区。
 
@@ -38,17 +44,17 @@ WIP
 
 总而言之，ω bbs 希望为大多数用户提供超越大多数论坛的体验。在此基础上，拥有一定的可定制性、可扩展性。若你需要丰富的扩展或是玲琅满目的自定义选项，请考虑使用 Discourse 或 Discuz!。
 
-## Issues
+## 问题反馈与意见建议
 
 请向各子项目提交 issue。
 
 [前端](https://github.com/omega-bbs/mua) | [API 服务](https://github.com/omega-bbs/len) | [接口及特性](https://github.com/omega-bbs/spec)
 
-## Roadmap
+## 路线图
 
 See [spec/projects](https://github.com/omega-bbs/spec/projects).
 
-## Contribution
+## 如何贡献
 
 - [Development](./docs/development.md)
 - [Code Style](./docs/code-style.md)
@@ -59,6 +65,6 @@ See [spec/projects](https://github.com/omega-bbs/spec/projects).
   - [Technology Stack](./docs/api/tech-stack.md)
 - [Meeting Notes](./docs/meeting-notes.md)
 
-## License
+## 授权协议
 
 如非特殊说明，本论坛系统的部分或全部组件，均遵循 AGPL-3.0 协议开源。
